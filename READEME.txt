@@ -1,0 +1,3 @@
+This bot monitors prices on the Binance exchange and throws notifications if there is a price change.
+In the "chat" folder you need to put your telegram id, and in the "symbols" you need to put a couple of cryptocurrencies,
+for example "BTCUSDT"
